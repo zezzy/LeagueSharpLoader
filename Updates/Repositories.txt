@@ -12,6 +12,7 @@
 <repo>https://github.com/shalzuth/LeagueSharp</repo>
 <repo>https://github.com/xQxCPMxQx/LeagueSharp2</repo>
 <repo>https://github.com/xSalice/LSharp</repo>   
+<repo>https://github.com/Zezzy/LeagueSharp</repo>
 <repo>https://github.com/brian0305/MasterSeries</repo>
 <repo>https://github.com/diabaths/sharperino</repo>
 <repo>https://github.com/DZ191/LeagueSharp</repo>
